@@ -140,6 +140,9 @@ body * {
         height: auto;
     }
 
+    .image {
+        width: 50%;;
+    }
     .left-login-image {
         width: 50vw;
     }
